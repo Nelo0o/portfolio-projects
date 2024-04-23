@@ -1,0 +1,3 @@
+[submodule "projects/social-links-profile"]
+	path = projects/social-links-profile
+	url = git@github.com:Nelo0o/social-links-profile.git
