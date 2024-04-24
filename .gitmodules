@@ -1,3 +1,6 @@
 [submodule "projects/social-links-profile"]
 	path = projects/social-links-profile
 	url = git@github.com:Nelo0o/social-links-profile.git
+[submodule "projects/blog-preview-card"]
+	path = projects/blog-preview-card
+	url = git@github.com:Nelo0o/blog-preview-card.git
